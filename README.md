@@ -3,8 +3,9 @@
 ### <div align="left" style="padding-left: 10px">I'm Volodymyr Lopukhovych, a Full-stack senior software engineer. </div>  
   
 
-- 🔭 I’m currently working on [VeliTech](https://velitech.com/)  
-  
+- <code>📮 Email: volodymyr.lopukhovychh@gmail.com</code>
+- <code>💬 [telegram](https://t.me/volodlopukhovych)</code>
+- <code>🔭 I’m currently working on [VeliTech](https://velitech.com/)</code>
 
 <br/>  
 
