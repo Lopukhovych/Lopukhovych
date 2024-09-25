@@ -4,8 +4,10 @@
   
 
 - <code>📮 Email: volodymyr.lopukhovychh@gmail.com</code>
-- <code>💬 Telegram [link](https://t.me/volodlopukhovych)</code>
+- <code>💬 LinkedIn [link](https://www.linkedin.com/in/lopukhovych/)</code>
 - <code>🔭 I’m currently working on [VeliTech](https://velitech.com/)</code>
+
+[![Volodymyr Lopukhovych profile views](https://u8views.com/api/v1/github/profiles/11315053/views/day-week-month-total-count.svg)](https://u8views.com/github/Lopukhovych)
 
 <br/>  
 
