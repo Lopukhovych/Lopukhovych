@@ -3,7 +3,7 @@
 ### <div align="left" style="padding-left: 10px"><p>I'm Volodymyr Lopukhovych, a Full-Stack senior software engineer.</p></div>  
   
 
-- <code>📮 Email: volodymyr.lopukhovychh@gmail.com</code>
+- <code>📮 Email: volod9646@gmail.com</code>
 - <code>💬 LinkedIn [link](https://www.linkedin.com/in/lopukhovych/)</code>
 - <code>🔭 I’m currently working on [VeliTech](https://velitech.com/)</code>
 
