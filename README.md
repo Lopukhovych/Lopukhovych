@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### <div align="left" style="padding-left: 10px"><p>I'm Volodymyr Lopukhovych, a Full-Stack senior software engineer.</p></div>  
+### <div align="left" style="padding-left: 10px"><p>I'm Volodymyr Lopukhovych, a Senior software engineer.</p></div>  
   
 
 - <code>📮 Email: volod9646@gmail.com</code>
